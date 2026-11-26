@@ -23,7 +23,7 @@ export default function MainPageBanner({
         fill
         preload
         sizes="100vw"
-        className="object-cover opacity-20"
+        className="-scale-x-100 object-cover opacity-5"
       />
       <div className="relative mx-auto container flex max-w-7xl flex-col justify-center px-4 py-30 sm:px-6 lg:px-8 ">
         {/* Header */}
