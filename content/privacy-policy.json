@@ -1,0 +1,76 @@
+{
+  "title": "Privacy Policy",
+  "effectiveDate": "2026-11-26",
+  "intro": "This Privacy Policy explains how Zel Auto Rescue (\"we\", \"us\", or \"our\") collects, uses, and protects your information when you visit our website or contact us for roadside assistance.",
+  "sections": [
+    {
+      "heading": "Information we collect",
+      "paragraphs": [
+        "We collect information you give us when you call, text, or email us to request service or ask a question. This may include:"
+      ],
+      "items": [
+        "Your name and phone number",
+        "Your email address, if you email us",
+        "Your location, so we can reach you",
+        "Details about your vehicle, such as make, model, color, and license plate",
+        "A description of the problem you need help with",
+        "Payment details needed to complete a service"
+      ]
+    },
+    {
+      "heading": "Information collected automatically",
+      "paragraphs": [
+        "When you visit our website, our hosting provider may automatically record standard technical information, such as your IP address, browser type, pages visited, and the time of your visit. This information is used to keep the website running and secure."
+      ]
+    },
+    {
+      "heading": "How we use your information",
+      "paragraphs": ["We use the information we collect to:"],
+      "items": [
+        "Dispatch a technician and provide the service you requested",
+        "Contact you about your service request",
+        "Process payments",
+        "Answer your questions",
+        "Verify vehicle ownership when required, such as for a lockout",
+        "Improve our services and website",
+        "Comply with legal obligations"
+      ]
+    },
+    {
+      "heading": "How we share your information",
+      "paragraphs": [
+        "We do not sell your personal information. We share it only when needed to provide our services, for example with our technicians, payment processors, and service providers who help us run our business. We may also share information when required by law or to protect the safety of our customers, team, or the public."
+      ]
+    },
+    {
+      "heading": "How long we keep your information",
+      "paragraphs": [
+        "We keep your information only as long as needed to provide our services, keep business records, and meet legal requirements."
+      ]
+    },
+    {
+      "heading": "How we protect your information",
+      "paragraphs": [
+        "We take reasonable steps to protect your information from loss, misuse, and unauthorized access. No method of transmission or storage is completely secure, so we cannot guarantee absolute security."
+      ]
+    },
+    {
+      "heading": "Your choices",
+      "paragraphs": [
+        "You may ask us to access, correct, or delete the personal information we hold about you, subject to any legal requirements to keep it. To make a request, contact us using the details below."
+      ]
+    },
+    {
+      "heading": "Children's privacy",
+      "paragraphs": [
+        "Our services are not directed to children under 13, and we do not knowingly collect personal information from them."
+      ]
+    },
+    {
+      "heading": "Changes to this policy",
+      "paragraphs": [
+        "We may update this Privacy Policy from time to time. When we do, we will post the updated version on this page and change the effective date above."
+      ]
+    }
+  ]
+}

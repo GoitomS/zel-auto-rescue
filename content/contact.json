@@ -1,0 +1,14 @@
+{
+  "hero": {
+    "primaryText": "Contact Us",
+    "secondaryText": "Need roadside help right now? Calling is the fastest way to reach us. We answer 24 hours a day, 7 days a week, anywhere in the Dallas–Fort Worth area."
+  },
+  "hours": "Open 24 hours a day, 7 days a week, including holidays.",
+  "prepareTitle": "What to have ready when you call",
+  "prepareItems": [
+    "Your location, such as an address, cross streets, or a nearby landmark",
+    "Your vehicle's make, model, and color",
+    "What happened, such as keys locked inside, a dead battery, a flat tire, or an empty tank",
+    "A phone number where we can reach you"
+  ]
+}

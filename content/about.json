@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "primaryText": "About Us",
+    "secondaryText": "Zel Auto Rescue is a local roadside assistance team serving drivers across the Dallas–Fort Worth area, 24 hours a day, 7 days a week."
+  },
+  "story": {
+    "title": "Local help for DFW drivers",
+    "paragraphs": [
+      "A locked car, a dead battery, a flat tire, or an empty tank can stop your day in an instant. We started Zel Auto Rescue so drivers in the Dallas–Fort Worth area have someone nearby they can call when that happens.",
+      "We focus on the four problems that leave drivers stranded most often. That focus lets our team arrive prepared and fix the problem on the spot, so you can get back on the road quickly and safely."
+    ]
+  },
+  "mission": "Our mission is to get every driver we help back on the road quickly and safely, with honest communication from the first call to the moment we leave.",
+  "values": [
+    {
+      "title": "Safety first",
+      "description": "Your safety comes before speed. We make sure you and your vehicle are secure before, during, and after every job."
+    },
+    {
+      "title": "Always available",
+      "description": "We answer calls day and night, on weekends, and on holidays, because breakdowns don't wait."
+    },
+    {
+      "title": "Honest and upfront",
+      "description": "We explain what to expect before we arrive, and we treat every driver the way we would want our own family treated."
+    },
+    {
+      "title": "Done right",
+      "description": "We use professional tools and proven methods so the job is done carefully, without damage to your vehicle."
+    }
+  ]
+}

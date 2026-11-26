@@ -1,0 +1,86 @@
+{
+  "hero": {
+    "primaryText": "Stuck? We are on the way!",
+    "secondaryText": "24/7 car lockout, jump start, flat tire change, and fuel delivery across the Dallas–Fort Worth area. One call and our team heads your way."
+  },
+  "services": [
+    {
+      "title": "Car Lockout",
+      "description": "Keys locked inside? We open most makes and models quickly and without damage to your doors, locks, or windows."
+    },
+    {
+      "title": "Jump Start",
+      "description": "Dead battery? We bring the equipment to get your engine running again and check that you are safe to drive."
+    },
+    {
+      "title": "Flat Tire Change",
+      "description": "We swap your flat for your spare on the spot so you can get back on the road and on to a tire shop."
+    },
+    {
+      "title": "Fuel Delivery",
+      "description": "Ran out of gas? We deliver enough fuel to get you to the nearest station, wherever you are stranded."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Call us",
+      "description": "Tell us where you are, what you drive, and what happened."
+    },
+    {
+      "title": "We head your way",
+      "description": "A technician is dispatched to your location, day or night."
+    },
+    {
+      "title": "Back on the road",
+      "description": "We fix the problem on the spot so you can get moving again."
+    }
+  ],
+  "reasons": [
+    {
+      "title": "Available 24/7",
+      "description": "Breakdowns don't keep business hours, and neither do we. Nights, weekends, and holidays included."
+    },
+    {
+      "title": "Fast local response",
+      "description": "We are based in DFW, so help comes from nearby instead of across the state."
+    },
+    {
+      "title": "Experienced team",
+      "description": "Our technicians handle lockouts, batteries, tires, and fuel every day."
+    },
+    {
+      "title": "Upfront communication",
+      "description": "We tell you what to expect before we arrive, with no surprises when we get there."
+    }
+  ],
+  "serviceAreas": [
+    "Dallas",
+    "Fort Worth",
+    "Arlington",
+    "Plano",
+    "Irving",
+    "Garland",
+    "Grand Prairie",
+    "Frisco",
+    "McKinney",
+    "Mesquite"
+  ],
+  "faqs": [
+    {
+      "question": "Do you really operate 24 hours a day?",
+      "answer": "Yes. You can call us any time, day or night, including weekends and holidays."
+    },
+    {
+      "question": "Which areas do you cover?",
+      "answer": "We serve the Dallas–Fort Worth metroplex. If you are unsure whether we reach your location, give us a call and we will let you know."
+    },
+    {
+      "question": "Will unlocking my car cause damage?",
+      "answer": "No. Our technicians use professional lockout tools designed to open vehicles without harming the doors, locks, or paint."
+    },
+    {
+      "question": "What if I don't have a spare tire?",
+      "answer": "Let us know when you call. We will talk through your options so you get the right help."
+    }
+  ]
+}
