@@ -1,8 +1,7 @@
 import Link from "next/link";
 import { footerNav } from "@/app/lib/navigation";
 
-async function CopyrightYear() {
-  "use cache";
+function CopyrightYear() {
   return new Date().getFullYear();
 }
 
