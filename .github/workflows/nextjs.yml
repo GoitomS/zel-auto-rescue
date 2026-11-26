@@ -1,6 +1,6 @@
 # Workflow for building and deploying a Next.js site to GitHub Pages
 #
-# Ensure "build": "next build" in package.json and `output: "export"` in next.config.*
+# Ensure "build": "next build" in package.json and `output: "export"` in next.config.ts
 # Docs: https://nextjs.org/docs/app/guides/static-exports
 
 name: Deploy Next.js site to Pages
@@ -31,10 +31,11 @@ jobs:
         with:
           node-version: "22"
 
+      # No static_site_generator here: with "next" it writes a generated
+      # next.config.js that overrides next.config.ts (dropping the Tailwind
+      # Turbopack rule). basePath and output: "export" live in next.config.ts.
       - name: Setup Pages
         uses: actions/configure-pages@v5
-        with:
-          static_site_generator: next
 
       - name: Restore cache
         uses: actions/cache@v4
