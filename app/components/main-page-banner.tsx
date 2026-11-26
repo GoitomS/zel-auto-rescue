@@ -1,3 +1,6 @@
+import Image from "next/image";
+import bannerPic from "@/public/banner_pic.webp";
+
 export default function MainPageBanner({
   primaryText,
   secondaryText,
@@ -12,8 +15,17 @@ export default function MainPageBanner({
   const isExternal = buttonLink?.startsWith("http") ?? false;
 
   return (
-    <section className="bg-slate-50">
-      <div className="mx-auto container flex max-w-7xl flex-col justify-center px-4 py-30 sm:px-6 lg:px-8 ">
+    <section className="relative overflow-hidden bg-slate-50">
+      <Image
+        src={bannerPic}
+        alt=""
+        aria-hidden
+        fill
+        preload
+        sizes="100vw"
+        className="object-cover opacity-20"
+      />
+      <div className="relative mx-auto container flex max-w-7xl flex-col justify-center px-4 py-30 sm:px-6 lg:px-8 ">
         {/* Header */}
         <div className="max-w-5xl ">
           <h1 className="text-5xl font-bold tracking-tight text-slate-900 sm:text-8xl overflow-hidden pb-2">
