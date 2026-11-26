@@ -1,9 +1,14 @@
 import type { NextConfig } from "next";
 
+const repoBasePath = "/zel-auto-rescue";
+
 const nextConfig: NextConfig = {
-  /* config options here */
-  cacheComponents: true,
-  partialPrefetching: true,
+  output: "export",
+  basePath: repoBasePath,
+  assetPrefix: repoBasePath,
+  images: {
+    unoptimized: true,
+  },
   turbopack: {
     rules: {
       "*.css": {
